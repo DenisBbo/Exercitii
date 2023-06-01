@@ -614,8 +614,9 @@ while True:
     else:
         print('Introduceti o varianta valida!')
 
-
-
+x = 'Hello'
+y = 'World'
+print(x+y)
 
 
 
