@@ -614,7 +614,18 @@ while True:
     else:
         print('Introduceti o varianta valida!')
 
+#Some random code for the sake of it
 
+def main(x,y):
+  x = 15+x
+  y = 10+y
+  if x > 20:
+    print(x+y)
+    print('im tierd')
+  else:
+    print('Im tierd boss')
+    return x+y
+print(main(0,5))
 
 
 
